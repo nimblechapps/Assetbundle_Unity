@@ -1,0 +1,34 @@
+# How To Implement AssetBundles in Unity3D
+
+#### Introduction
+
+An AssetBundle is a collection of assets from a project saved in a compact file with the purpose of being loaded separately to the application. In this blog post, We try to explain How to Get data from AssetBundle on The Server and Data From AssetBundle In Local. If you need a step by step explanation of the topic, you can check our article here: [How To Implement AssetBundles in Unity3D](https://insights.nimblechapps.com/unity/implement-assetbundles-in-unity)
+
+#### We will cover following topics for Android and iOS platforms:
+
+ 1. How to get data from asset bundle in server.
+    1.1 Build An AssetBundle
+    1.2 Load AssetBundle From The Server
+ 2. How to get data from asset bundle in local.
+    2.1 Build A Scene As AssetBundle
+    2.2 Load AssetBundle From The Local
+
+#### Final output
+<br/>
+
+[![N|Solid](https://insights.nimblechapps.com/wp-content/uploads/2017/12/Assets-Bundle-329x565-1.png)](https://insights.nimblechapps.com/unity/implement-assetbundles-in-unity)
+
+This tutorial has been presented by Nimblechapps - The coolest [Unity Game Development Company](https://www.nimblechapps.com/unity-game-development-company). Checkout our [game development portfolio](https://www.nimblechapps.com/portfolio/game-development).
+
+     Provide us your valuable comment in our blog comment section.
+
+##### Read other interesting iOS blogs
+
+ 1. [How to Create Animation Clip in Unity3D](https://insights.nimblechapps.com/unity/create-animation-clip-unity3d)
+ 2. [How to Implement Slingshot In Unity](https://insights.nimblechapps.com/unity/how-to-implement-slingshot-in-unity)
+ 3. [Implementing Confetti Coming out of an object In Unity](https://insights.nimblechapps.com/unity/implementing-confetti-coming-out-of-an-object-in-unity)
+ 4. [How to Integrate Photon Pun Multiplayer Game Engine For Unity](https://insights.nimblechapps.com/unity/how-to-integrate-photon-pun-multiplayer-game-engine-for-unity)
+
+## License
+
+Copyright (c) 2017 Nimblechapps
